@@ -1,23 +1,3 @@
-```markdown
-# Telegram Weather Bot
-
-![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8+-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
-## Содержание
-
-- [Описание](#описание)
-- [Особенности](#особенности)
-- [Требования](#требования)
-- [Установка](#установка)
-- [Настройка](#настройка)
-- [Использование](#использование)
-- [Структура Проекта](#структура-проекта)
-- [Логирование](#логирование)
-- [Вклад](#вклад)
-- [Лицензия](#лицензия)
-
 ## Описание
 
 **Telegram Weather Bot** — это бот для Telegram, который предоставляет прогнозы погоды по заданному маршруту. Пользователи могут:
@@ -46,7 +26,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/ваш_репозиторий/telegram-weather-bot.git
+   git clone https://github.com/Glhfda/Black-Project.git
    cd telegram-weather-bot
    ```
 
